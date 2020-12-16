@@ -14,7 +14,7 @@ Things you may want to cover:
 * Database creation
 
 * Database initialization
-* something
+* kjbsdflkbasdfkñbasdkñf
 
 * How to run the test suite
 
